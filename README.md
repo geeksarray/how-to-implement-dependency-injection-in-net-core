@@ -4,7 +4,7 @@
 
 **IServiceProvider** is the built-in IoC container included in ASP.NET Core.
 
-**IServiceCollection** is a collection of service descriptors. This collection registers services with different scopt of objects (Transient, scoped, singleton).
+**IServiceCollection** is a collection of service descriptors. This collection registers services with different scope of objects (Transient, scoped, singleton).
 
 Why should you use Dependency Injection?
 
